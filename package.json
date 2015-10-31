@@ -1,0 +1,29 @@
+{
+  "name": "react-class",
+  "version": "1.0.0",
+  "description": "React前端開發實戰",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React、課程"
+  ],
+  "author": "JerryHong",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.33",
+    "babel-loader": "^5.3.3",
+    "react-tools": "^0.10.0",
+    "react-transform": "0.0.3",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "react-redux": "^4.0.0",
+    "redux": "^3.0.4"
+  }
+}
