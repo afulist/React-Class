@@ -1,6 +1,6 @@
 import shortid from 'shortid';
 import AppDispatcher from '../dispatcher/AppDispatcher.js';
-import ActionType from '../constants/ActionType.js';
+import * as ActionType from '../constants/ActionType.js';
 import {
     EventEmitter
 }
