@@ -1,0 +1,17 @@
+.number {
+	width: 100px;
+	margin: 0 5px;
+}
+.range {
+    -webkit-appearance: none;
+    background-color: silver;
+	width: 200px;
+    height:20px;
+	&::-webkit-slider-thumb{
+		-webkit-appearance: none;
+		background-color: white;
+		border: 1px gray solid;
+	    width: 10px;
+	    height: 26px;
+	}
+}
