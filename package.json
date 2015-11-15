@@ -12,10 +12,16 @@
   "author": "JerryHong",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer-loader": "^3.1.0",
     "babel-core": "^5.8.33",
     "babel-loader": "^5.3.3",
+    "css-loader": "^0.23.0",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "node-sass": "^3.4.2",
     "react-tools": "^0.10.0",
     "react-transform": "0.0.3",
+    "sass-loader": "^3.1.1",
+    "style-loader": "^0.13.0",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1"
   },
@@ -25,6 +31,7 @@
     "react-dom": "^0.14.1",
     "react-redux": "^4.0.0",
     "react-tools": "^0.13.3",
-    "redux": "^3.0.4"
+    "redux": "^3.0.4",
+    "shortid": "^2.2.4"
   }
 }
